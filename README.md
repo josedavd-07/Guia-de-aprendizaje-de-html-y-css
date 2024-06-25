@@ -1,4 +1,4 @@
-#Contenido de enseñanza sobre html y css.
+# Contenido de enseñanza sobre html y css.
 <ol>
     <li> Estructura del html.</li>
     <li> Paginas y encabezados, primeras etiquetas</li>
